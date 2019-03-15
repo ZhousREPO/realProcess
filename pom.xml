@@ -122,7 +122,7 @@
     <!--开发环境-->
 
     <profiles>
-        <!--生产环境-->
+        <!--开发环境-->
         <profile>
             <id>dev</id>
             <activation>
@@ -141,7 +141,7 @@
             </build>
         </profile>
 
-        <!--开发环境-->
+        <!--生产环境-->
         <profile>
             <id>pro</id>
             <activation>

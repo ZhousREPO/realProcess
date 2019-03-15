@@ -4,8 +4,6 @@ import java.util.Properties
 
 import com.typesafe.config.{Config, ConfigFactory}
 
-import scala.util.Properties
-
 /*
 bootstrap.servers="node01:9092,node02:9092,node03:9092"
 zookeeper.connect="node01:2181,node02:2181,node03:2181"
